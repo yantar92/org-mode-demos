@@ -1,0 +1,8 @@
+* Visual demos for [[https://orgmode.org/][Org mode for Emacs]]
+
+** Refiling
+
+*** Refiling multiple headings using agenda bulk actions
+
+[[file:agenda-bulk-action.gif]]
+
